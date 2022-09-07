@@ -5,7 +5,7 @@ The place where oddments display to remind the histoy is museum.<br>Museums prov
 ---
 # Directions for to go the Science museum.
 1. The Chicago Midway Airport is the nearest of the science museum.
-2. We can take right from the airport exit then take is U turn.
+2. We can take right from the airport exit then take U turn.
 3. After that take left turn and go staright up to 3KM.
 4. Our destination will be at left.
 ---

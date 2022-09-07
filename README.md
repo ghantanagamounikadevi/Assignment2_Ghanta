@@ -5,7 +5,7 @@ The place where oddments display to remind the histoy is museum.<br>Museums prov
 ---
 # Directions for to go the Science museum.
 1. The Chicago Midway Airport is the nearest of the science museum.
-2. We can take right from the airport exit then there is U turn.
+2. We can take right from the airport exit then take is U turn.
 3. After that take left turn and go staright up to 3KM.
 4. Our destination will be at left.
 ---
@@ -30,3 +30,37 @@ The cities that i recommend to visit in India Vizag , Hyderabad,Delhi and Tirupa
 # Quote
 > Be there for others, but never leave yourself behind.*Dodinsky*s
 > Work Hard dream Big Never Giveup *AL rocker*
+ ---
+# Code fencing
+> How we use Sorting Function in Saas?
+
+```
+/// Quick sort
+/// @author Sam Richards
+/// @param {List} $list - list to sort
+/// @return {List}
+@function quick-sort($list) {
+  $less:  ();
+  $equal: ();
+  $large: ();
+
+  @if length($list) > 1 {
+    $seed: nth($list, ceil(length($list) / 2));
+
+    @each $item in $list {
+      @if ($item == $seed) {
+        $equal: append($equal, $item);
+      } @else if ($item < $seed) {
+        $less: append($less, $item);
+      } @else if ($item > $SEED) {
+        $large: append($large, $item);
+      }
+    }
+
+    @return join(join(quick-sort($less, $order), $equal), quick-sort($large, $order));
+  }
+
+  @return $list;
+}
+```
+[Question](https://css-tricks.com/snippets/sass/sorting-function/)

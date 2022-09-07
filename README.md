@@ -28,7 +28,8 @@ The cities that i recommend to visit in India Vizag , Hyderabad,Agra and Tirupat
 | Tirupathi | Balaji temple | 4 |
 ***
 # Quote
-> Be there for others, but never leave yourself behind.*Dodinsky*s<br>
+> Be there for others, but never leave yourself behind.*Dodinsky*s
+>
 > Work Hard dream Big Never Giveup *AL rocker*
  ---
 # Code fencing

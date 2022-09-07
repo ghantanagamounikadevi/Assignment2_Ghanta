@@ -8,3 +8,9 @@ The place where oddments display to remind the histoy is museum.<br>Museums prov
 3.We can take right from the airport exit then there is U turn.
 4.After that take left turn and go staright up to 3KM.
 5.Our destination will be at left.
+---
+---
+# Other locations around the museum
+* Jackson Park Beach
+* Hyde park
+* Frank Lloyd Wright's Robie House

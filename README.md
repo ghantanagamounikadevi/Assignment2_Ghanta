@@ -12,7 +12,7 @@ The place where oddments display to remind the histoy is museum.<br>Museums prov
 ---
 # Other locations around the museum
 
-* Jackson Park Beach
+* Jackson Park Beach.
 * Hyde park
 * Frank Lloyd Wright's Robie House
 

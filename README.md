@@ -26,3 +26,7 @@ The cities that i recommend to visit in India Vizag , Hyderabad,Delhi and Tirupa
 | Hyderabad | Charminar | 2 |
 | Delhi | TajMahal | 5 |
 | Tirupathi | Balaji temple | 4 |
+***
+# Quote
+> Be there for others, but never leave yourself behind.***Dodinsky***
+> Work Hard dream Big Never Giveup ***AL rocker***

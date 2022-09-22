@@ -21,7 +21,7 @@ _ _ _
 # Tables
 The cities that i recommend to visit in India Vizag , Hyderabad,Agra and Tirupathi.These cities are most attractive places for the turists here you can view like Charminar,TajMahal,RK beach and the famous tirumala balaji temple.
 | Name of the city | Location to visit in the city | Amount of the time |
-| --- | :---: | --- |
+| :---: | :---: | :---: |
 | Vizag | RK beach | 6 |
 | Hyderabad | Charminar | 2 |
 | Agra | TajMahal | 5 |
